@@ -1,6 +1,6 @@
 {
     "name"        : "giant",
-    "version"     : "0.0.0",
+    "version"     : "0.0.1",
     "description" : "Heavy-duty isometric front end application framework",
     "keywords"    : [
         "front end",
@@ -29,6 +29,6 @@
     },
     "repository"  : {
         "type": "git",
-        "url" : "git@github.com:danstocker/giant.git"
+        "url" : "git@github.com:giantjs/giant.git"
     }
 }
