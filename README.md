@@ -1,6 +1,6 @@
 # Giant
 
-*Heavy-duty isometric front end application framework*
+*Heavy-duty isomorphic front end application framework*
 
 **WARNING:** Giant is in a very early phase, with frequent breaking changes.
 

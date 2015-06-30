@@ -1,11 +1,11 @@
 {
     "name"        : "giant",
-    "version"     : "0.0.1",
-    "description" : "Heavy-duty isometric front end application framework",
+    "version"     : "0.0.2",
+    "description" : "Heavy-duty isomorphic front end application framework",
     "keywords"    : [
         "front end",
         "framework",
-        "isometric"
+        "isomorphic"
     ],
     "author"      : "Dan Stocker <dan@kwaia.com>",
     "copyright"   : "Copyright (c) 2015 Dan Stocker",
