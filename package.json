@@ -15,19 +15,22 @@
         "url" : "git@github.com:giantjs/giant.git"
     },
     "dependencies": {
-        "giant-assertion" : "0.0.3",
-        "giant-asset"     : "0.0.3",
-        "giant-data"      : "0.0.3",
-        "giant-entity"    : "0.0.3",
-        "giant-event"     : "0.0.3",
-        "giant-i18n"      : "0.0.3",
-        "giant-oop"       : "0.0.3",
-        "giant-routing"   : "0.0.3",
-        "giant-table"     : "0.0.3",
-        "giant-templating": "0.0.3",
-        "giant-transport" : "0.0.3",
-        "giant-widget"    : "0.0.3",
-        "jquery"          : "^2.1.4",
-        "q"               : "^1.4.1"
+        "giant-assertion"     : "0.0.3",
+        "giant-asset"         : "0.0.3",
+        "giant-cli-tools"     : "0.0.3",
+        "giant-common-widgets": "0.0.3",
+        "giant-data"          : "0.0.3",
+        "giant-entity"        : "0.0.3",
+        "giant-event"         : "0.0.3",
+        "giant-i18n"          : "0.0.3",
+        "giant-namespace"     : "0.0.3",
+        "giant-oop"           : "0.0.3",
+        "giant-routing"       : "0.0.3",
+        "giant-table"         : "0.0.3",
+        "giant-templating"    : "0.0.3",
+        "giant-transport"     : "0.0.3",
+        "giant-widget"        : "0.0.3",
+        "jquery"              : "^2.1.4",
+        "q"                   : "^1.4.1"
     }
 }
