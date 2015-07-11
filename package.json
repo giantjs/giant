@@ -15,20 +15,19 @@
         "url" : "git@github.com:giantjs/giant.git"
     },
     "dependencies": {
-        "bookworm"  : "^0.2.9",
-        "dessert"   : "^0.3.2",
-        "evan"      : "^0.7.7",
-        "flock"     : "^0.3.10",
-        "grocer"    : "^0.4.10",
-        "jorder"    : "^0.2.7",
-        "jquery"    : "^2.1.4",
-        "milkman"   : "^0.4.0",
-        "poodle"    : "^0.3.17",
-        "q"         : "^1.4.1",
-        "rubberband": "^0.1.6",
-        "shoeshine" : "^0.2.6",
-        "sntls"     : "^0.20.3",
-        "troop"     : "^0.8.0",
-        "v18n"      : "^0.1.3"
+        "giant-assertion" : "0.0.3",
+        "giant-asset"     : "0.0.3",
+        "giant-data"      : "0.0.3",
+        "giant-entity"    : "0.0.3",
+        "giant-event"     : "0.0.3",
+        "giant-i18n"      : "0.0.3",
+        "giant-oop"       : "0.0.3",
+        "giant-routing"   : "0.0.3",
+        "giant-table"     : "0.0.3",
+        "giant-templating": "0.0.3",
+        "giant-transport" : "0.0.3",
+        "giant-widget"    : "0.0.3",
+        "jquery"          : "^2.1.4",
+        "q"               : "^1.4.1"
     }
 }
