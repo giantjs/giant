@@ -32,5 +32,8 @@
         "jquery"              : "^2.1.4",
         "q"                   : "^1.4.1"
     },
+    "files"       : [
+        "giant.js"
+    ],
     "main"        : "giant.js"
 }
