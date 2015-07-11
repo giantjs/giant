@@ -17,7 +17,6 @@
     "dependencies": {
         "giant-assertion"     : "0.0.3",
         "giant-asset"         : "0.0.3",
-        "giant-cli-tools"     : "0.0.3",
         "giant-common-widgets": "0.0.3",
         "giant-data"          : "0.0.3",
         "giant-entity"        : "0.0.3",
@@ -32,5 +31,6 @@
         "giant-widget"        : "0.0.3",
         "jquery"              : "^2.1.4",
         "q"                   : "^1.4.1"
-    }
+    },
+    "main"        : "giant.js"
 }
