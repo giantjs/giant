@@ -34,7 +34,7 @@
     "q": "^1.4.1"
   },
   "files": [
-    "giant.js"
+    "lib"
   ],
-  "main": "giant.js"
+  "main": "lib/giant.js"
 }
