@@ -1,11 +1,12 @@
 {
   "name": "giant",
   "version": "0.0.5",
-  "description": "Heavy-duty isomorphic front end application framework",
+  "description": "Full-featured SPA framework",
   "keywords": [
     "front end",
     "framework",
-    "isomorphic"
+    "isomorphic",
+    "universal"
   ],
   "author": "Dan Stocker <dan@kwaia.com>",
   "copyright": "Copyright (c) 2015 Dan Stocker",

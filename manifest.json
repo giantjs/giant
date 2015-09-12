@@ -1,0 +1,9 @@
+{
+  "main": {
+    "assets": {
+      "js": [
+        "src/giant.js"
+      ]
+    }
+  }
+}
