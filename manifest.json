@@ -2,7 +2,8 @@
   "main": {
     "assets": {
       "js": [
-        "src/giant.js"
+        "src/namespace.js",
+        "src/exports.js"
       ]
     }
   }

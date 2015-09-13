@@ -18,7 +18,3 @@ if (typeof require === 'function') {
     require('giant-transport');
     require('giant-widget');
 }
-
-if (typeof module !== 'undefined') {
-    module.exports = giant;
-}
