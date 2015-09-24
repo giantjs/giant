@@ -24,10 +24,12 @@ var $templating = $templating || require('giant-templating');
 /** @namespace */
 var $i18n = $i18n || require('giant-i18n');
 
+/** @namespace */
+var $routing = $routing || require('giant-routing');
+
 if (typeof require === 'function') {
     require('giant-asset');
     require('giant-common-widgets');
-    require('giant-routing');
     require('giant-table');
     require('giant-transport');
     require('giant-widget');
