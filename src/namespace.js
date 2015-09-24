@@ -15,10 +15,12 @@ var $data = $data || require('giant-data');
 /** @namespace */
 var $event = $event || require('giant-event');
 
+/** @namespace */
+var $entity = $entity || require('giant-entity');
+
 if (typeof require === 'function') {
     require('giant-asset');
     require('giant-common-widgets');
-    require('giant-entity');
     require('giant-i18n');
     require('giant-routing');
     require('giant-table');
