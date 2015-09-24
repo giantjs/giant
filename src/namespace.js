@@ -30,9 +30,11 @@ var $routing = $routing || require('giant-routing');
 /** @namespace */
 var $transport = $transport || require('giant-transport');
 
+/** @namespace */
+var $widget = $widget || require('giant-widget');
+
 if (typeof require === 'function') {
     require('giant-asset');
     require('giant-common-widgets');
     require('giant-table');
-    require('giant-widget');
 }
