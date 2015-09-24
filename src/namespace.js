@@ -36,7 +36,9 @@ var $widget = $widget || require('giant-widget');
 /** @namespace */
 var $asset = $asset || require('giant-asset');
 
+/** @namespace */
+var $commonWidgets = $commonWidgets || require('giant-common-widgets');
+
 if (typeof require === 'function') {
-    require('giant-common-widgets');
     require('giant-table');
 }
