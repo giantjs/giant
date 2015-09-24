@@ -33,8 +33,10 @@ var $transport = $transport || require('giant-transport');
 /** @namespace */
 var $widget = $widget || require('giant-widget');
 
+/** @namespace */
+var $asset = $asset || require('giant-asset');
+
 if (typeof require === 'function') {
-    require('giant-asset');
     require('giant-common-widgets');
     require('giant-table');
 }
