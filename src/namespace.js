@@ -12,11 +12,13 @@ var $oop = $oop || require('giant-oop');
 /** @namespace */
 var $data = $data || require('giant-data');
 
+/** @namespace */
+var $event = $event || require('giant-event');
+
 if (typeof require === 'function') {
     require('giant-asset');
     require('giant-common-widgets');
     require('giant-entity');
-    require('giant-event');
     require('giant-i18n');
     require('giant-routing');
     require('giant-table');
