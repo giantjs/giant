@@ -21,10 +21,12 @@ var $entity = $entity || require('giant-entity');
 /** @namespace */
 var $templating = $templating || require('giant-templating');
 
+/** @namespace */
+var $i18n = $i18n || require('giant-i18n');
+
 if (typeof require === 'function') {
     require('giant-asset');
     require('giant-common-widgets');
-    require('giant-i18n');
     require('giant-routing');
     require('giant-table');
     require('giant-transport');
