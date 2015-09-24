@@ -3,8 +3,10 @@
 /** @namespace */
 var giant = giant || require('giant-namespace');
 
+/** @namespace */
+var $assertion = $assertion || require('giant-assertion');
+
 if (typeof require === 'function') {
-    require('giant-assertion');
     require('giant-asset');
     require('giant-common-widgets');
     require('giant-data');
