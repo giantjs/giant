@@ -1,6 +1,6 @@
 {
   "name": "giant",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Full-featured SPA framework",
   "keywords": [
     "front end",
@@ -16,20 +16,20 @@
     "url": "git@github.com:giantjs/giant.git"
   },
   "peerDependencies": {
-    "giant-assertion": "0.1.0",
-    "giant-asset": "0.1.0",
-    "giant-common-widgets": "0.1.0",
-    "giant-data": "0.1.0",
-    "giant-entity": "0.1.0",
-    "giant-event": "0.1.0",
-    "giant-i18n": "0.1.0",
-    "giant-oop": "0.1.0",
-    "giant-routing": "0.1.0",
-    "giant-table": "0.1.0",
-    "giant-templating": "0.1.0",
-    "giant-transport": "0.1.0",
-    "giant-utils": "0.1.0",
-    "giant-widget": "0.1.0",
+    "giant-assertion": "0.2.0",
+    "giant-asset": "0.2.0",
+    "giant-common-widgets": "0.2.0",
+    "giant-data": "0.2.0",
+    "giant-entity": "0.2.0",
+    "giant-event": "0.2.0",
+    "giant-i18n": "0.2.0",
+    "giant-oop": "0.2.0",
+    "giant-routing": "0.2.0",
+    "giant-table": "0.2.0",
+    "giant-templating": "0.2.0",
+    "giant-transport": "0.2.0",
+    "giant-utils": "0.2.0",
+    "giant-widget": "0.2.0",
     "jquery": "^2.1.4",
     "q": "^1.4.1"
   }
