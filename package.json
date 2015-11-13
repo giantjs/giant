@@ -33,7 +33,6 @@
     "giant-transport": "0.2.0",
     "giant-utils": "0.2.0",
     "giant-widget": "0.2.0",
-    "jquery": "^2.1.4",
-    "q": "^1.4.1"
+    "jquery": "^2.1.4"
   }
 }
