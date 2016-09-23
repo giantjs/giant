@@ -15,8 +15,8 @@
     "type": "git",
     "url": "git@github.com:giantjs/giant.git"
   },
-  "engines" : {
-    "npm" : "^3.0.0"
+  "engines": {
+    "npm": "^3.0.0"
   },
   "dependencies": {
     "giant-assertion": "~0.3.0",
@@ -34,5 +34,6 @@
     "giant-utils": "~0.3.0",
     "giant-widget": "~0.3.0",
     "jquery": "^2.1.4"
-  }
+  },
+  "devDependencies": {}
 }
