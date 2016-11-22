@@ -1,6 +1,6 @@
 {
   "name": "giant",
-  "version": "0.3.0",
+  "version": "0.4.0",
   "description": "Full-featured SPA framework",
   "keywords": [
     "front end",
@@ -9,7 +9,7 @@
     "universal"
   ],
   "author": "Dan Stocker <dan@kwaia.com>",
-  "copyright": "Copyright (c) 2015 Dan Stocker",
+  "copyright": "Copyright (c) 2015-2016 Dan Stocker",
   "license": "MIT",
   "repository": {
     "type": "git",
@@ -19,20 +19,20 @@
     "npm": "^3.0.0"
   },
   "dependencies": {
-    "giant-assertion": "~0.3.0",
-    "giant-asset": "~0.3.0",
-    "giant-common-widgets": "~0.3.0",
-    "giant-data": "~0.3.0",
-    "giant-entity": "~0.3.0",
-    "giant-event": "~0.3.0",
-    "giant-i18n": "~0.3.0",
-    "giant-oop": "~0.3.0",
-    "giant-routing": "~0.3.0",
-    "giant-table": "~0.3.0",
-    "giant-templating": "~0.3.0",
-    "giant-transport": "~0.3.0",
-    "giant-utils": "~0.3.0",
-    "giant-widget": "~0.3.0",
+    "giant-assertion": "~0.4.0",
+    "giant-asset": "~0.4.0",
+    "giant-common-widgets": "~0.4.0",
+    "giant-data": "~0.4.0",
+    "giant-entity": "~0.4.0",
+    "giant-event": "~0.4.0",
+    "giant-i18n": "~0.4.0",
+    "giant-oop": "~0.4.0",
+    "giant-routing": "~0.4.0",
+    "giant-table": "~0.4.0",
+    "giant-templating": "~0.4.0",
+    "giant-transport": "~0.4.0",
+    "giant-utils": "~0.4.0",
+    "giant-widget": "~0.4.0",
     "jquery": "^2.1.4"
   },
   "devDependencies": {}
